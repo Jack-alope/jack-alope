@@ -1,4 +1,4 @@
-##### For Main Project: [Cardiac Tissue Tracker](https://github.com/teammurphy/multi_tissue_tracking)
+##### For Main Project: [Cardiac Tissue Tracker](https://github.com/teammurphy/multi_tissue_documentation)
 
 ##### For Website Repos: [Jack-website](https://github.com/jacks-website)
 
