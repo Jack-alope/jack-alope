@@ -1,4 +1,4 @@
-##### For Main Project: [Cardiac Tissue Tracker](https://gitlab.com/costa-lab/multi-tissue-tracking)
+##### For Main Project Repos: [Cardiac Tissue Tracker](https://gitlab.com/costa-lab/multi-tissue-tracking)
 
 ##### For Website Repos: [Jacks-website](https://github.com/jacks-website)
 
