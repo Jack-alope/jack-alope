@@ -1,4 +1,4 @@
-##### For Main Project Repos: [Cardiac Tissue Tracker](https://gitlab.com/costa-lab/multi-tissue-tracking)
+##### Current Main Project Repos: Rianú: A cardiac tissue tracking software suite. 
 
 ##### For Website: [Live](https://jack.engineering) | [Custom Theme](https://github.com/Jack-alope/sourgough-starter)
 
