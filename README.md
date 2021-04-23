@@ -1,4 +1,4 @@
-##### Current Project: <em>Rianú:</em> <small>A cardiac tissue tracking software suite.</small>
+##### Current Project: <small>A cardiac tissue tracking software suite.</small>
 
 ##### For Website: [Live](https://jack.engineering) | [Custom Theme](https://github.com/Jack-alope/sourgough-starter)
 
